@@ -5,6 +5,7 @@ accurate price predictions facilitate informed decision-making, investment plann
 
 Real estate dataset contains 414 entries with detailed information on real estate transactions.
 It encompasses several features that are typically influential in real estate pricing:
+
 Transaction date: Date of the property transaction.
 House age: Age of the property in years.
 Distance to the nearest MRT station: Proximity to the nearest Mass Rapid Transit station in meters, is a key factor considering convenience and accessibility.
