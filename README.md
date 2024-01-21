@@ -1,4 +1,4 @@
-Project: predicting real estate prices with Machine Learning (Linear Regression and SGDRegressor Algorithm) using Python
+# Project 1: predicting real estate prices with Machine Learning (Linear Regression and SGDRegressor Algorithm) using Python
 
 Real Estate Price prediction plays a crucial role in both the real estate market and the economy at large. For investors, developers, and homeowners,
 accurate price predictions facilitate informed decision-making, investment planning, and risk management.
